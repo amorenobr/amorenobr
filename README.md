@@ -7,7 +7,7 @@
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amorenobr&show_icons=true&theme=chartreusedark&locale=en" alt="amorenobr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amorenobr&show_icons=true&theme=yeblu&locale=en" alt="amorenobr" />
 </p>
 
 
